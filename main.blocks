@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start" x="0" y="0"></block>
-  <block type="forever" x="176" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" id="(X;lwmfHo%L*zl0oj(~o" x="350" y="30"><statement name="HANDLER"><block type="builtin_neopixel_show_animation" id="6BtXT7dBl8vv^t}VN2Pw"><value name="animation"><shadow type="light_animation_picker" id="uXLz3r=)8r%Y$n=ix5z8"><field name="animation">light.rainbowAnimation</field></shadow></value><value name="duration"><shadow type="timePicker" id=":/Sw;=eOntfeENL__d7N"><field name="ms">500</field></shadow></value></block></statement></block><block type="pxt-on-start" id="No[kNB`Z`3wU[)AXnQ*D" x="30" y="70"><statement name="HANDLER"><block type="builtin_neopixel_set_strip_color" id="H~6sP7FX0H{,Jv)6:dt5"><value name="rgb"><shadow type="colorNumberPicker" id="|sByHLtE$|[uBj15v8*5"><field name="value">0xff0000</field></shadow></value></block></statement></block></xml>

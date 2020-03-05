@@ -3,7 +3,8 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "adafruit-metro-m0-express": "*"
+        "adafruit-metro-m0-express": "*",
+        "xChip": "github:luqmaanb/pxt-xchip#master"
     },
     "files": [
         "README.md",
@@ -17,5 +18,5 @@
     "supportedTargets": [
         "maker"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
