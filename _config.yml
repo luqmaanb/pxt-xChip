@@ -1,6 +1,6 @@
 makecode:
   target: 
   platform: 
-  home_url: https://www.makecode.com/
+  home_url: https://maker.makecode.com/
 theme: jekyll-theme-slate
 include: assets
